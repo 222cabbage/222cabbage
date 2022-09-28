@@ -1,5 +1,3 @@
-
-
 <!--
 **222cabbage/222cabbage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,15 +20,13 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 大家好，我是小白菜! 毕业于于重庆城市科技学院，网络与新媒体专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!
-- 🌱 目前正在学习
-<span > 
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-  <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 
-</span>
+- 🔭 大家好，我是小白菜! 毕业于于重庆城市科技学院，网络与新媒体专业，热爱计算机科学和IT互联网事业!
+- ⚡ 我喜欢玩游戏，但可不是网瘾少年。喜欢手游吃鸡/和平精英（我不会告诉你我端游玩的很菜）🤣
 
-## 目前熟悉技能  
+### 常用语言 👋
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=222cabbage&layout=compact&theme=tokyonight)
+
+### 目前熟悉技能  
 <table><tr><td valign="top" width="33%">
 
 
